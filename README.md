@@ -4,17 +4,17 @@ What are the most popular libraries in the Elm ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [elm-lang/elm-compiler](https://github.com/elm-lang/elm-compiler) | Compiler for the Elm programming language. Elm aims to make web development more pleasant. Elm is a type inferred, functional reactive language that compiles to HTML, CSS, and JavaScript. | 2242 |
-| [elm-lang/elm-lang.org](https://github.com/elm-lang/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | 548 |
+| [elm-lang/elm-compiler](https://github.com/elm-lang/elm-compiler) | Compiler for the Elm programming language. Elm aims to make web development more pleasant. Elm is a type inferred, functional reactive language that compiles to HTML, CSS, and JavaScript. | 2245 |
+| [elm-lang/elm-lang.org](https://github.com/elm-lang/elm-lang.org) | The full source for http://elm-lang.org/, the home-page of the Elm programming language. Open sourced as a way to teach people how to write and serve Elm code. Follow the instructions in README.md to get the site setup on your own machine. | 549 |
 | [evancz/elm-html](https://github.com/evancz/elm-html) | Use HTML in Elm! | 280 |
 | [rtfeldman/dreamwriter](https://github.com/rtfeldman/dreamwriter) | (NOTE! This has not been updated since Elm 0.15.1 and is not using current best practices. I plan to circle back to it in Spring 2016 and bring it up to standards.) Streamlined long-form writing software. Written in Elm. | 259 |
-| [elm-lang/core](https://github.com/elm-lang/core) | Elm's core libraries | 251 |
-| [elm-lang/elm-platform](https://github.com/elm-lang/elm-platform) | Bundle of all core development tools for Elm | 249 |
-| [elm-native-ui/elm-native-ui](https://github.com/elm-native-ui/elm-native-ui) | WIP experiment: Building mobile apps with Elm powered by React Native. | 216 |
+| [elm-lang/core](https://github.com/elm-lang/core) | Elm's core libraries | 252 |
+| [elm-lang/elm-platform](https://github.com/elm-lang/elm-platform) | Bundle of all core development tools for Elm | 250 |
+| [elm-native-ui/elm-native-ui](https://github.com/elm-native-ui/elm-native-ui) | WIP experiment: Building mobile apps with Elm powered by React Native. | 217 |
 | [seliopou/elm-d3](https://github.com/seliopou/elm-d3) | Elm bindings for D3.js | 166 |
 | [elm-lang/elm-reactor](https://github.com/elm-lang/elm-reactor) | Interactive development tool that makes it easy to develop and debug Elm programs. | 133 |
 | [usesold/elmongo](https://github.com/usesold/elmongo) | Give your Mongoose data the Power of Elasticsearch | 101 |
-| [johnpmayer/elm-webgl](https://github.com/johnpmayer/elm-webgl) | Functional 3D Rendering with WebGL in Elm | 98 |
+| [johnpmayer/elm-webgl](https://github.com/johnpmayer/elm-webgl) | Functional 3D Rendering with WebGL in Elm | 99 |
 | [jcollard/elmtris](https://github.com/jcollard/elmtris) | A Tetris game for the web browser written in Elm | 92 |
 | [elm-lang/elm-repl](https://github.com/elm-lang/elm-repl) | A REPL for Elm | 74 |
 | [deadfoxygrandpa/elm-test](https://github.com/deadfoxygrandpa/elm-test) | A unit testing framework for Elm | 72 |
@@ -23,7 +23,7 @@ What are the most popular libraries in the Elm ecosystem?
 | [elm-lang/elm-package](https://github.com/elm-lang/elm-package) | Command line tool to share Elm libraries | 68 |
 | [evancz/first-person-elm](https://github.com/evancz/first-person-elm) | First-person navigation in a simple 3D world, written in Elm | 61 |
 | [evancz/TodoFRP](https://github.com/evancz/TodoFRP) | Basic Todo list example, written with FRP in Elm | 61 |
-| [rtfeldman/elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) | Webpack loader for the Elm programming language. | 57 |
+| [rtfeldman/elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) | Webpack loader for the Elm programming language. | 58 |
 | [rtfeldman/elm-css](https://github.com/rtfeldman/elm-css) | NOT REMOTELY PRODUCTION-READY proof of concept for an Elm CSS preprocessor that lets you use union types rather than Strings for your classes and IDs | 54 |
 | [TheSeamau5/elm-checkerboardgrid-tutorial](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial) | Tutorial on Container Components in Elm | 54 |
 | [jessitron/elm-sydron](https://github.com/jessitron/elm-sydron) | a first elm app. Hits the github API for events for a hard-coded repository. | 47 |
@@ -44,8 +44,8 @@ What are the most popular libraries in the Elm ecosystem?
 | [passy/elm-pokemon](https://github.com/passy/elm-pokemon) |  | 30 |
 | [TheSeamau5/elm-undo-redo](https://github.com/TheSeamau5/elm-undo-redo) | Easy undo in Elm | 30 |
 | [ElmCast/elm-oracle](https://github.com/ElmCast/elm-oracle) | Query for information about values in elm source files. | 30 |
+| [eeue56/servelm](https://github.com/eeue56/servelm) | Server-side Elm | 29 |
 | [evancz/elm-effects](https://github.com/evancz/elm-effects) | Bring effects like HTTP and animations into your Elm Architecture app | 28 |
-| [eeue56/servelm](https://github.com/eeue56/servelm) | Server-side Elm | 28 |
 | [justinwoo/elm-simple-loader](https://github.com/justinwoo/elm-simple-loader) | A simple Webpack loader for Elm sources. Uses your system Elm installation. | 28 |
 | [tomekwi/elm-live](https://github.com/tomekwi/elm-live) | ⚡ Elm development with LiveReload. Feels lightning-fast! | 28 |
 | [evancz/elm-http](https://github.com/evancz/elm-http) | Make HTTP requests in Elm | 27 |
@@ -57,11 +57,11 @@ What are the most popular libraries in the Elm ecosystem?
 | [rgrempel/elm-route-hash](https://github.com/rgrempel/elm-route-hash) | Router for single-page-apps in Elm | 23 |
 | [rgrempel/elm-web-api](https://github.com/rgrempel/elm-web-api) | Elm bindings for various web APIs | 23 |
 | [mgold/elm-socketio](https://github.com/mgold/elm-socketio) | Socket.io wrapper for Elm. | 21 |
+| [jessitron/elm-sample](https://github.com/jessitron/elm-sample) | A starting point for Elm applications | 21 |
 | [elm-community/builtwithelm](https://github.com/elm-community/builtwithelm) | A list of projects and apps built with Elm. | 21 |
 | [evancz/virtual-dom](https://github.com/evancz/virtual-dom) | Minimal virtual DOM system for Elm. Useful for creating libraries for HTML and SVG. | 21 |
 | [TheSeamau5/elm-check](https://github.com/TheSeamau5/elm-check) | Property Based Testing in Elm | 20 |
 | [evancz/elm-svg](https://github.com/evancz/elm-svg) | Fast SVG support for Elm | 20 |
-| [jessitron/elm-sample](https://github.com/jessitron/elm-sample) | A starting point for Elm applications | 20 |
 | [irh/asteroids](https://github.com/irh/asteroids) | An Asteroids clone written in Elm | 20 |
 | [andrewgleave/OpenElm](https://github.com/andrewgleave/OpenElm) | Open Elm Project | 20 |
 | [ElmCast/elm-node](https://github.com/ElmCast/elm-node) | Elm server side support | 20 |
@@ -84,52 +84,54 @@ What are the most popular libraries in the Elm ecosystem?
 | [yasuyuky/elmtrn](https://github.com/yasuyuky/elmtrn) | elm + electron boiler plate | 15 |
 | [zalando/elm-street-404](https://github.com/zalando/elm-street-404) | 404 Elm Street browser game | 15 |
 | [TheSeamau5/elm-history](https://github.com/TheSeamau5/elm-history) | Elm bindings to HTML5 History API | 14 |
-| [ThomasWeiser/todomvc-elmfire](https://github.com/ThomasWeiser/todomvc-elmfire) | TodoMVC+Firebase  in  Elm+ElmFire | 14 |
 | [rtfeldman/lambdaconf-2015-elm-workshop](https://github.com/rtfeldman/lambdaconf-2015-elm-workshop) | Materials for the Elm Workshop at LambdaConf 2015 | 14 |
+| [ThomasWeiser/todomvc-elmfire](https://github.com/ThomasWeiser/todomvc-elmfire) | TodoMVC+Firebase  in  Elm+ElmFire | 14 |
 | [NoRedInk/elm-html-widgets](https://github.com/NoRedInk/elm-html-widgets) | An elm-html widget library | 14 |
 | [tazjin/elm-yesod](https://github.com/tazjin/elm-yesod) | elm-yesod contains the Language.Elm.Yesod module for embedding Elm code in Yesod applications. | 14 |
 | [madsflensted/elm-brunch](https://github.com/madsflensted/elm-brunch) | Brunch plugin to compile Elm code | 14 |
+| [ccorcos/elmish](https://github.com/ccorcos/elmish) | A Javascript UI library inspired by Elm | 14 |
 | [alexeygolev/elm-architecture-using-ramda-and-flyd](https://github.com/alexeygolev/elm-architecture-using-ramda-and-flyd) | Elm architecture implemented in javascript using ramda and flyd | 14 |
 | [Apanatshka/elm-signal-extra](https://github.com/Apanatshka/elm-signal-extra) | Signal-related, advanced and convenience functions | 13 |
 | [TheSeamau5/flex-html](https://github.com/TheSeamau5/flex-html) | Flexbox layout for elm-html | 13 |
 | [lambdatoast/elm-json](https://github.com/lambdatoast/elm-json) | A library for convenient and composable translation between JSON and Elm types | 13 |
+| [Dandandan/Easing](https://github.com/Dandandan/Easing) | Easing (animation and timing) library for Elm | 13 |
 | [avh4/elm-animations](https://github.com/avh4/elm-animations) |  | 13 |
 | [sporto/hop](https://github.com/sporto/hop) | A router for single page applications in Elm | 13 |
 | [jwmerrill/elm-animation-frame](https://github.com/jwmerrill/elm-animation-frame) | An Elm Signal that is synchronized with the monitor's refresh rate. | 13 |
 | [rtfeldman/node-elm-compiler](https://github.com/rtfeldman/node-elm-compiler) | A Node.js interface to the Elm compiler binaries. | 13 |
 | [Gozala/elmjs](https://github.com/Gozala/elmjs) | Elm in JS | 13 |
 | [michaelbjames/elm-examples](https://github.com/michaelbjames/elm-examples) | Some pleasant examples that show off the reactor and get you started | 12 |
-| [Dandandan/Easing](https://github.com/Dandandan/Easing) | Easing (animation and timing) library for Elm | 12 |
 | [johnpmayer/celestia](https://github.com/johnpmayer/celestia) | Modular spaceship game in Elm | 12 |
 | [rluiten/mailcheck](https://github.com/rluiten/mailcheck) | Port to Elm of mailcheck.js, suggests domains for emails with errors. | 12 |
 | [johnpmayer/elm-linear-algebra](https://github.com/johnpmayer/elm-linear-algebra) |  | 12 |
 | [vilterp/elm-diagrams](https://github.com/vilterp/elm-diagrams) | An Elm library for creating diagrams, inspired by Brent Yorgey's Diagrams library for Haskell. | 11 |
+| [kfish/elm-shadertoy](https://github.com/kfish/elm-shadertoy) | Shadertoy for Elm | 11 |
 | [grzegorzbalcerek/chess-elm](https://github.com/grzegorzbalcerek/chess-elm) | The game of chess written in elm. | 11 |
+| [mikegehard/elm-minesweeper](https://github.com/mikegehard/elm-minesweeper) | A minesweeper game built in Elm. | 11 |
 | [rtfeldman/grunt-elm](https://github.com/rtfeldman/grunt-elm) | Grunt plugin that compiles Elm files to JavaScript. | 11 |
+| [yelouafi/snabbdom-todomvc](https://github.com/yelouafi/snabbdom-todomvc) | TodoMVC using snabbdom and Elm architecture | 11 |
 | [jystic/elm-font-awesome](https://github.com/jystic/elm-font-awesome) | Font Awesome vector icons as Elm HTML components | 10 |
 | [jessitron/elm-param-parsing](https://github.com/jessitron/elm-param-parsing) |  | 10 |
-| [kfish/elm-shadertoy](https://github.com/kfish/elm-shadertoy) | Shadertoy for Elm | 10 |
-| [mikegehard/elm-minesweeper](https://github.com/mikegehard/elm-minesweeper) | A minesweeper game built in Elm. | 10 |
 | [TheSeamau5/GraphicsEngine](https://github.com/TheSeamau5/GraphicsEngine) | 3D Graphics Engine in Elm | 10 |
 | [evancz/local-channel](https://github.com/evancz/local-channel) | Helps you write self-contained components in Elm | 10 |
-| [Diamond/livechat-elm](https://github.com/Diamond/livechat-elm) | The LiveChat repository, except with Elm powering the chat code | 10 |
 | [joefiorini/hi-elm](https://github.com/joefiorini/hi-elm) | null | 10 |
+| [Diamond/livechat-elm](https://github.com/Diamond/livechat-elm) | The LiveChat repository, except with Elm powering the chat code | 10 |
 | [ccellar/nlog-elmah-target](https://github.com/ccellar/nlog-elmah-target) | A target for NLog which routes exceptions to ELMAH | 10 |
+| [joefiorini/elm-routing-example](https://github.com/joefiorini/elm-routing-example) |  | 10 |
 | [paparga/elmish-react](https://github.com/paparga/elmish-react) |  | 10 |
-| [yelouafi/snabbdom-todomvc](https://github.com/yelouafi/snabbdom-todomvc) | TodoMVC using snabbdom and Elm architecture | 10 |
 | [michaelbjames/elm-voronoi](https://github.com/michaelbjames/elm-voronoi) | Manhattan-style Voronoi diagram for the web! | 9 |
 | [maxsnew/lazy](https://github.com/maxsnew/lazy) | Lazy Evaluation in Elm | 9 |
 | [joaomilho/elm-presentation](https://github.com/joaomilho/elm-presentation) | A humble presentation about Elm for the regular React developer | 9 |
 | [GoranM/bluepill](https://github.com/GoranM/bluepill) | A small avoider game, written in Elm. | 9 |
 | [Fresheyeball/elm-http-server](https://github.com/Fresheyeball/elm-http-server) | node-http as a `Signal (Request, Reponse)` | 9 |
 | [joaomilho/game-of-life-elm](https://github.com/joaomilho/game-of-life-elm) | A simple implementation of Game of Line on Elm | 9 |
-| [joefiorini/elm-routing-example](https://github.com/joefiorini/elm-routing-example) |  | 9 |
+| [elm-lang/geolocation](https://github.com/elm-lang/geolocation) | Get location data from Elm | 9 |
+| [purcell/servant-elm](https://github.com/purcell/servant-elm) | WIP: Generate Elm modules which talk to Haskell Servant APIs | 9 |
 | [bmatcuk/elm-webaudio](https://github.com/bmatcuk/elm-webaudio) | Elm library for accessing the Web Audio API | 8 |
 | [circuithub/elm-list-extra](https://github.com/circuithub/elm-list-extra) | Convenience functions for working with List | 8 |
 | [mgold/elm-animation](https://github.com/mgold/elm-animation) | Animation library for Elm. | 8 |
 | [evancz/elm-markdown](https://github.com/evancz/elm-markdown) | Markdown parsing within Elm | 8 |
 | [quephird/polymer-with-elm](https://github.com/quephird/polymer-with-elm) | An illustration of how to incorporate Polymer components in an Elm app | 8 |
-| [elm-lang/geolocation](https://github.com/elm-lang/geolocation) | Get location data from Elm | 8 |
 | [deadfoxygrandpa/AI-A-Modern-Approach-in-Elm](https://github.com/deadfoxygrandpa/AI-A-Modern-Approach-in-Elm) | Implementations of parts of Russell and Norvig's AI book in the Elm programming language | 8 |
 | [rtfeldman/node-elm-test](https://github.com/rtfeldman/node-elm-test) | Runs elm-test suites from Node.js. Get it with npm install -g elm-test | 8 |
 | [krisajenkins/elm-export](https://github.com/krisajenkins/elm-export) | Create Elm types and JSON decoders from Haskell source. | 8 |
@@ -141,7 +143,6 @@ What are the most popular libraries in the Elm ecosystem?
 | [NigelThorne/elm-web-server](https://github.com/NigelThorne/elm-web-server) | Simple web server in elm  (just for fun) | 7 |
 | [doppioslash/CastleOfElm](https://github.com/doppioslash/CastleOfElm) | Roguelike for 7DRL make in Elm | 7 |
 | [jastice/boxes-and-bubbles](https://github.com/jastice/boxes-and-bubbles) | A simple-as-possible 2D physics rigid-body physics engine for Elm. | 7 |
-| [purcell/servant-elm](https://github.com/purcell/servant-elm) | WIP: Generate Elm modules which talk to Haskell Servant APIs | 7 |
 | [philopon/gulp-elm](https://github.com/philopon/gulp-elm) | Gulp plugin that compiles Elm files to JavaScript. | 7 |
 | [mybuddymichael/linter-elm-make](https://github.com/mybuddymichael/linter-elm-make) | Lint your Elm files in Atom with elm-make | 7 |
 | [mgold/Elm-Robotics](https://github.com/mgold/Elm-Robotics) | Program Arduino robots in Elm. | 7 |
@@ -156,14 +157,14 @@ What are the most popular libraries in the Elm ecosystem?
 | [brainkim/elmy-bird](https://github.com/brainkim/elmy-bird) | Flappy Bird in Elm. | 6 |
 | [WeAreWizards/elm-rocket-lander](https://github.com/WeAreWizards/elm-rocket-lander) | A simple rocket lander game written in Elm | 6 |
 | [phuu/talk-funjs-elm](https://github.com/phuu/talk-funjs-elm) |  | 6 |
-| [deadfoxygrandpa/Roguelike](https://github.com/deadfoxygrandpa/Roguelike) | A roguelike in Elm | 6 |
 | [Morendil/FunFun](https://github.com/Morendil/FunFun) | Video games in Elm | 6 |
+| [deadfoxygrandpa/Roguelike](https://github.com/deadfoxygrandpa/Roguelike) | A roguelike in Elm | 6 |
 | [rtfeldman/mloc-2015-elm-workshop](https://github.com/rtfeldman/mloc-2015-elm-workshop) | Materials for the Elm Workshop at mloc.js 2015 | 6 |
 | [deadfoxygrandpa/HexGrid](https://github.com/deadfoxygrandpa/HexGrid) | A module for working with HexGrids in Elm | 6 |
 | [krisajenkins/lunarlander](https://github.com/krisajenkins/lunarlander) | Lunar Lander, In Elm, in 90 Minutes | 6 |
 | [TheSeamau5/elm-storage](https://github.com/TheSeamau5/elm-storage) | Local Storage in Elm | 6 |
-| [Nazanin1369/elm-memoryGame](https://github.com/Nazanin1369/elm-memoryGame) | Memory game using Elm | 6 |
 | [rrichardson/elm-bootstrap-skel](https://github.com/rrichardson/elm-bootstrap-skel) | Skeleton app for Bootstrap single page nav site | 6 |
+| [Nazanin1369/elm-memoryGame](https://github.com/Nazanin1369/elm-memoryGame) | Memory game using Elm | 6 |
 | [brabadu/tanok](https://github.com/brabadu/tanok) | Elm Architecture-inspired wrapper for Rx.js+React | 6 |
 | [justinwoo/react-14-rx-fake-elm-arch](https://github.com/justinwoo/react-14-rx-fake-elm-arch) | A repository for the demo I posted here: https://gist.github.com/justinwoo/0f4b2a96aebbe3293612 | 6 |
 | [kamalmarhubi/todomvc-es6-react-rxjs-elm-architecture](https://github.com/kamalmarhubi/todomvc-es6-react-rxjs-elm-architecture) | TodoMVC in ES6 / React / Rx.js with the Elm Architecture | 6 |
@@ -171,22 +172,24 @@ What are the most popular libraries in the Elm ecosystem?
 | [JoeyEremondi/elm-build-lib](https://github.com/JoeyEremondi/elm-build-lib) | A library for compiling Elm to JavaScript from within Haskell | 5 |
 | [splodingsocks/elm-starter](https://github.com/splodingsocks/elm-starter) | A starter kit for writing front-end apps with Elm | 5 |
 | [christianalfoni/exploring-elm-boilerplate](https://github.com/christianalfoni/exploring-elm-boilerplate) | A boilerplate used in an article series exploring Elm | 5 |
-| [smiley325/elm-geocoding](https://github.com/smiley325/elm-geocoding) | Elm interface to Google Maps' geocoding library. | 5 |
-| [amitaibu/elm-leaflet](https://github.com/amitaibu/elm-leaflet) | For better integration see elm-hedley | 5 |
 | [leonardoborges/elm-workshop-ylj2015](https://github.com/leonardoborges/elm-workshop-ylj2015) | Elm Workshop delivered at YOW! LambdaJam 2015 in Brisbane, Australia | 5 |
 | [vilterp/elm-websockets](https://github.com/vilterp/elm-websockets) | use the HTML5 WebSockets API | 5 |
 | [Fresheyeball/elm-node](https://github.com/Fresheyeball/elm-node) | General purpose node server | 5 |
+| [smiley325/elm-geocoding](https://github.com/smiley325/elm-geocoding) | Elm interface to Google Maps' geocoding library. | 5 |
+| [amitaibu/elm-leaflet](https://github.com/amitaibu/elm-leaflet) | For better integration see elm-hedley | 5 |
 | [sonnym/elm-expressway](https://github.com/sonnym/elm-expressway) | Scaffolding for multi-user Elm applications via Gulp, Express, and SockJS. | 5 |
 | [shashi/elm-on-meteor](https://github.com/shashi/elm-on-meteor) | Some example Elm scripts that compile to meteor | 5 |
 | [ivanoats/elm-brunch-starter](https://github.com/ivanoats/elm-brunch-starter) | A Brunch template for Elm Start-App apps | 5 |
 | [Raynos/frp-keyboard](https://github.com/Raynos/frp-keyboard) | An FRP implementation of Elm.Keyboard in JS | 5 |
+| [BartAdv/elm-architecture-tutorial-reflex](https://github.com/BartAdv/elm-architecture-tutorial-reflex) | Elm architecture tutorial reworked in Haskell' Reflex library | 4 |
 | [lachenmayer/arrowsmith](https://github.com/lachenmayer/arrowsmith) | Augmented editor for Elm. | 4 |
 | [zerophp/elmsqr-php-scqt](https://github.com/zerophp/elmsqr-php-scqt) |  | 4 |
 | [dylanbeattie/ElmahASP](https://github.com/dylanbeattie/ElmahASP) | Code for logging classic ASP script errors using ELMAH | 4 |
 | [ohanhi/elm-ement](https://github.com/ohanhi/elm-ement) | The "Hello world" of Elm + Web Components. | 4 |
-| [vilterp/elm-todos-tutorial](https://github.com/vilterp/elm-todos-tutorial) | Multiple stages of a todo list, for learning Elm. | 4 |
+| [agrafix/elm-react](https://github.com/agrafix/elm-react) | React bindings for Elm | 4 |
 | [giisyu/elm-signalCatalog](https://github.com/giisyu/elm-signalCatalog) | elm's signal and signal functions demo on browser   | 4 |
 | [whodidthis/testing-elm-websockets](https://github.com/whodidthis/testing-elm-websockets) | Probably does not work | 4 |
+| [vilterp/elm-todos-tutorial](https://github.com/vilterp/elm-todos-tutorial) | Multiple stages of a todo list, for learning Elm. | 4 |
 | [ziyasal/ElmahR.Api.Nancy](https://github.com/ziyasal/ElmahR.Api.Nancy) | Extended ElmahR dashboard using a Nancy endpoint to receive errors from any application capable of sending HTTP POST JSON data. | 4 |
 | [tcoopman/game-of-life](https://github.com/tcoopman/game-of-life) | Game Of Life implementation in Elm | 4 |
 | [evancz/codemesh-tutorial](https://github.com/evancz/codemesh-tutorial) | self-contained exercises that emphasize fundamentals and the Elm Architecture | 4 |
